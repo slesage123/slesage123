@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @slesage123
-- 👀 I’m interested in interactive technologies, better UI/UX practices, machine learning, and bio-mimicry. 
-- 🌱 I’m currently learning PHP, Processing, and React.js
-- 📫 How to reach me ...
+👋 Hi, I’m @slesage123; I’m interested in interactive technologies, better UI/UX practices, machine learning, and bio-mimicry.
+📫 slesage123@gmail.com
 
 <!---
 slesage123/slesage123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
